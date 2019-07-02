@@ -1,4 +1,5 @@
 ########################## Insertion Sort #################################
+import math
 
 def InsertSort(arr):
 
